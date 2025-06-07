@@ -44,19 +44,10 @@ Start MongoDB locally (Mac)
 
 mongod --config /opt/homebrew/etc/mongod.conf
 Run the server
-
-
 npm run dev
-🔐 API Routes
-Route	Method	Access
-/signup	POST	Public
-/login	POST	Public
-/student	GET	Student
-/admin	GET	Admin
 
-📦 Scripts
-bash
-Copy code
-npm run dev  # Starts server with nodemon
+
+
 🧑‍💻 Author
+
 Made by Vedansh Upadhyay
